@@ -1,2 +1,2 @@
 # hello-world
-this repository firdt
+this repository first
